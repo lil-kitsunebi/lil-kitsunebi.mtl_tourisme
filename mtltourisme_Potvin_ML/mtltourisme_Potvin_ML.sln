@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{91786B25-214B-471B-8A7D-58F6E522668B}"
+	ProjectSection(SolutionItems) = preProject
+		mtltourisme.html = mtltourisme.html
+		reset.css = reset.css
+		style.css = style.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53A96298-3980-4A7E-92FC-9887F5C9EE1B}
+	EndGlobalSection
+EndGlobal

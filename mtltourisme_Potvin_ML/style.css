@@ -1,0 +1,41 @@
+form {
+    margin: 20px;
+    width: 400px;
+    height: 570px;
+    text-align: left;
+    background-color: #D1EEEE;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    box-shadow: -4px -4px 4px #999999;
+}
+
+table {
+    width: 310px;
+    margin: 30px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+
+tr:hover {
+    font-weight: bold;
+    transition-duration: 0.7s;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin: 10px;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 30px;
+}
+
+button {
+    margin: 20px;
+}
